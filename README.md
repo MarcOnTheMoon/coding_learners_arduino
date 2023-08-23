@@ -4,7 +4,7 @@ Teaching at Hamburg University of Applied Sciences (HAW Hamburg), I love to use 
 In this context, I have elaborated materials (slides and sample programs) to help my students learn quickly how to work with Arduinos. Maybe you find this material helpful as well.
 
 ## Fundamentals
-<img src="./assets/images/ArduinoUno.png" width="200">
+<img src="./assets/images/ArduinoUno.png" height="100">
 
 The slide set _Fundamentals_ is intended to make you familiar with the commonly used boards such as UNO, Nano, and Mega. Apart from the Arduino board, only few low-cost parts are required (like breadboard, cables, LEDs, resistors, push button.) Also, an introduction how to use the "standard" ultrasonic distance sensor HC-SR04 is given. This cheap sensor, alone, can be a lot of fun already.
 
@@ -16,7 +16,7 @@ The slide set _Fundamentals_ is intended to make you familiar with the commonly 
 1. _Measuring analog input_ (Measure voltages at analog pins)
 
 ## RC-controlled cars
-<img src="./assets/images/RC-Car.png" width="200">
+<img src="./assets/images/RC_Car.png" height="100">
 
 As many student projects use RC model cars, there is an introduction how to control RC cars by Arduino boards. I want to rework the material before uploading it, though. Please be patient. Topics covered include:
 
