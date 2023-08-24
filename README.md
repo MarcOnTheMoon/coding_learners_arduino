@@ -28,7 +28,7 @@ As many student projects use RC model cars, there is an introduction how to cont
 
 ## Upload status (uploaded or still to come)
 - [X] Fundamentals ([PDF](docs/), [source codes](src/fundamentals))
-- [ ] Controlling RC cars (PDF, souces codes)
+- [ ] Controlling RC cars (PDF, source codes)
 - [ ] Further topics
 
 ## Contact
