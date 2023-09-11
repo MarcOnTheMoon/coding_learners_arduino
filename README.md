@@ -18,7 +18,7 @@ The slide set _Fundamentals_ is intended to make you familiar with the commonly 
 ## RC-controlled cars
 <img src="./assets/images/RC_Car.png" height="100">
 
-As many student projects use RC model cars, there is an introduction how to control RC cars by Arduino boards. I want to rework the material before uploading it, though. Please be patient. Topics covered include:
+As many student projects use RC model cars, there is an introduction how to control RC cars by Arduino boards. Topics covered include:
 
 1. Receiver channels, signals, and principle components of a RC car
 1. Control steering and throttle directly by Arduino-generated signals
@@ -28,7 +28,7 @@ As many student projects use RC model cars, there is an introduction how to cont
 
 ## Upload status (uploaded or still to come)
 - [X] Fundamentals ([PDF](docs/), [source codes](src/fundamentals))
-- [ ] Controlling RC cars (PDF, source codes)
+- [X] Controlling RC cars ([PDF](docs/), [source codes](src/rc_cars))
 - [ ] Further topics
 
 ## Contact
