@@ -1,11 +1,12 @@
 # Introduction to Arduino boards
-Teaching at Hamburg University of Applied Sciences (HAW Hamburg), I love to use Arduino boards with my students in the degree programs on electrical and information engineering. Arduino boards are quite cheap and easy to program, even for first-semester students. And it is easy to extend them by all sorts of sensors and actors, making them a perfect choice to apply all the theory covered in the lectures and create all sorts of systems (e. g., robotics) with only moderate effort. In the end, I want my students to have fun _doing_ things and apply, not learn books by heart. I am convinced that this will help them become good engineers.
+<img src="./assets/images/ArduinoUno.png" height="150" align=left>
+
+Teaching at Hamburg University of Applied Sciences (HAW Hamburg), I love to use Arduino boards with my students in the degree programs on electrical and information engineering. Arduino boards are quite cheap and easy to program, even for first-semester students. And it is easy to extend them by all sorts of sensors and actors, making them a perfect choice to apply all the theory covered in the lectures and create all sorts of systems (e. g., robotics) with only moderate effort. In the end, I want my students to have fun _doing_ things and apply, not learn books by heart. I am convinced that this will help them become good engineers.<p>
 
 In this context, I have elaborated materials (slides and sample programs) to help my students learn quickly how to work with Arduinos. Maybe you find this material helpful as well.
+<br clear=all>
 
 ## Fundamentals
-<img src="./assets/images/ArduinoUno.png" height="100">
-
 The slide set _Fundamentals_ is intended to make you familiar with the commonly used boards such as UNO, Nano, and Mega. Apart from the Arduino board, only few low-cost parts are required (like breadboard, cables, LEDs, resistors, push button.) Also, an introduction how to use the "standard" ultrasonic distance sensor HC-SR04 is given. This cheap sensor, alone, can be a lot of fun already.
 
 1. _Arduino board and IDE_ (Fundamental pins and interfaces, required software, basic program)
