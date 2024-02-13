@@ -2,7 +2,7 @@
 *.pptx
 
 # Ignore directory with Fritzing sources
-fritzing/
+_fritzing/
 
 # Ignore work in progress
-wip/
+_wip/
