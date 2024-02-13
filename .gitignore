@@ -1,5 +1,8 @@
-# Ignore original PowerPoint files
+# Ignore PowerPoint
 *.pptx
 
 # Ignore directory with Fritzing sources
 fritzing/
+
+# Ignore work in progress
+wip/
