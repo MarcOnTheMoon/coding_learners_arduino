@@ -1,0 +1,5 @@
+# Ignore original PowerPoint files
+*.pptx
+
+# Ignore directory with Fritzing sources
+fritzing/
