@@ -1,11 +1,5 @@
-# Define "ignore directories"
+# Define ignored directories
 *.ignore
 
 # Ignore PowerPoint
 *.pptx
-
-# Ignore directory with Fritzing sources
-_fritzing/
-
-# Ignore work in progress
-_wip/
