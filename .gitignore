@@ -1,3 +1,6 @@
+# Define "ignore directories"
+*.ignore
+
 # Ignore PowerPoint
 *.pptx
 
